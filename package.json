@@ -1,6 +1,6 @@
 {
   "name": "mdx-quiz-sides",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "mdx-deck": "^4.1.1"
+  },
+  "dependencies": {
+    "styled-components": "^5.1.0"
   }
 }
