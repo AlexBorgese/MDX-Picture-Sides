@@ -53,7 +53,7 @@ const PosedText = posed.div({
 const Slide = styled(PosedSlide)`
   width: "100vw";
   height: "100vh";
-  backgroundcolor: "tomato";
+  background-color: #222222;
   display: flex;
   flex-direction: column;
 `;
